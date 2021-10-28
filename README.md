@@ -1,5 +1,5 @@
 # Recruit Better
-One stop shop for recruiting resources. Essentially, I was loosing track of where I was keeping all of this info and and wanted it in one place selfishly for myself. You can use it too.
+One stop shop for recruiting resources. Essentially, I was loosing track of where I was keeping all of this info and and wanted it in one place selfishly for myself. However, why not open this up for your use too?
 
 Do you have a resource to add? Thank you! Let's do that. This is open source and I don't have as much time on my hands as I would like to. So if something is borken or if you want to add to the list, please contribute with a pull request.
 
