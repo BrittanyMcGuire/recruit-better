@@ -14,9 +14,11 @@ Do you have a resource to add? Thank you! Let's do that. This is open source and
 
 
 ## 📚 Books
-
 - 🖤 [The Robot-Proof Recruiter](https://www.goodreads.com/en/book/show/43289624-the-robot-proof-recruiter) by [Katrina Collier](https://katrinacollier.com/the-robot-proof-recruiter/)
 - [Who](https://www.goodreads.com/en/book/show/4989687) by [Geoff Smart and Randy Street](https://whothebook.com/)
+
+## 📢 Podcasts
+- 🖤 [The Hiring Partner Perspective](https://podcasts.apple.com/gb/podcast/the-hiring-partner-perspective-unedited/id1557097310)
 
 ## 🤝 Connecting with Talent
 - [Diversity Tech](https://www.diversifytech.co/hire)
