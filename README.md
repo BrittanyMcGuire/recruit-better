@@ -23,7 +23,7 @@ Do you have a resource to add? Thank you! Let's do that. This is open source and
 - [7 TED Talks That Will Make You a Better Recruiter](https://blog.firefishsoftware.com/ted-talks-for-recruiters?utm_medium=email&_hsmi=77520619&_hsenc=p2ANqtz-8gkWArL1MsXQF98NMq4dG7yE3BF4g7EFQBLqeu6zd_umGPUNgMAJsh4qfWPXUvzUjq-mO7mC9gvBzaTrUIai7sz1pGFq4AULaOqjJk8J8MKqQ3Ado&utm_content=77520619&utm_source=hs_automation)
 
 ## 📰 Articles
-- [Google for Jobs Playbook](https://blog.firefishsoftware.com/google-for-jobs-playbook)
+- 🖤 [Google for Jobs Playbook](https://blog.firefishsoftware.com/google-for-jobs-playbook)
 - [Hiring for Curiosity](https://www.cio.com/article/3057206/why-curious-people-make-better-employees.html)
 - [Creating a Culture of Curiosity](https://hbr.org/2019/01/surveymonkeys-ceo-on-creating-a-culture-of-curiosity)
 - [Build Empathy Into Recruitment](https://www.indeed.com/lead/empathy-recruiting-process)
