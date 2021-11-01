@@ -35,5 +35,11 @@ Do you have a resource to add? Thank you! Let's do that. This is open source and
 ## 🧰 Tools
 - [Job Description Gender Decoder](http://gender-decoder.katmatfield.com/)
 - [Calendly](https://calendly.com/app/login)
-
+- [If This Then That](https://ifttt.com/explore/new_to_ifttt)
+- [Best Practie Portal - Inclusion](http://bestpractice.evenbreak.co.uk/)
+- [Social Listening Tools](https://martech.org/6-of-the-best-social-listening-tools-for-2019/)
+- [Character Interview Questions Around Curiosity](https://blog.adeccousa.com/character-interview-questions-around-curiosity/)
+- [Listening Skills Test](https://www.psychologytoday.com/us/tests/personality/listening-skills-test)
+- [Body Language Quiz](https://www.scienceofpeople.com/quiz/)
+- [Test your Empathy](https://psychology-tools.com/test/empathy-quotient)
 
