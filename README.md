@@ -16,7 +16,7 @@ Do you have a resource to add? Thank you! Let's do that. This is open source and
 ## 📚 Books
 - 🖤 [The Robot-Proof Recruiter](https://www.goodreads.com/en/book/show/43289624-the-robot-proof-recruiter) by [Katrina Collier](https://katrinacollier.com/the-robot-proof-recruiter/)
 - [Who](https://www.goodreads.com/en/book/show/4989687) by [Geoff Smart and Randy Street](https://whothebook.com/)
-- [Crucial Conversations](https://www.goodreads.com/book/show/15014.Crucial_Conversations?ac=1&from_search=true&qid=imPe273JaF&rank=1) by Patterson, Grenny, McMillan, and Switzler
+- 🖤 [Crucial Conversations](https://www.goodreads.com/book/show/15014.Crucial_Conversations?ac=1&from_search=true&qid=imPe273JaF&rank=1) by Patterson, Grenny, McMillan, and Switzler
 
 ## 📢 Podcasts and Videos
 - 🖤 [The Hiring Partner Perspective](https://podcasts.apple.com/gb/podcast/the-hiring-partner-perspective-unedited/id1557097310)
@@ -32,7 +32,7 @@ Do you have a resource to add? Thank you! Let's do that. This is open source and
 - [Building Recruiting Influence](https://www.shrm.org/resourcesandtools/hr-topics/talent-acquisition/pages/build-recruiting-influence-these-6-steps.aspx)
 - [Delivering Bad News](https://www.entrepreneur.com/article/302091)
 - [Conducting Difficult Conversations](https://www.google.com/url?q=http://bit.ly/SIFireWell&sa=D&source=editors&ust=1635787768435000&usg=AOvVaw0MMrTDE_CZBqn92aaUKroU)
-- [Managing Csnflict Styles](https://www.learning-mind.com/conflict-styles/)
+- [Managing Conflict Styles](https://www.learning-mind.com/conflict-styles/)
 - [Career Site Optimization](https://www.thatlittleagency.co.uk/launching-your-careers-website/)
 
 ## 🤝 Connecting with Talent
