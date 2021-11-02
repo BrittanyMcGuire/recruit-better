@@ -34,6 +34,7 @@ Do you have a resource to add? Thank you! Let's do that. This is open source and
 - [Conducting Difficult Conversations](https://www.google.com/url?q=http://bit.ly/SIFireWell&sa=D&source=editors&ust=1635787768435000&usg=AOvVaw0MMrTDE_CZBqn92aaUKroU)
 - [Managing Conflict Styles](https://www.learning-mind.com/conflict-styles/)
 - [Career Site Optimization](https://www.thatlittleagency.co.uk/launching-your-careers-website/)
+- [Building a Talent Pool in Github](https://medium.com/@sjamillavdtooren/budget-sourcing-101-building-a-talent-pool-in-github-dcda0e08d517)
 
 ## 🤝 Connecting with Talent
 - [Diversity Tech](https://www.diversifytech.co/hire)
